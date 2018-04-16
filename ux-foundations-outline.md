@@ -1,14 +1,20 @@
 UX Foundations
 ==============
 
-<!-- **Book Proposal: Smashing Media AG** -->
+**Initial Outline: Monday, 16 April, 2017**
 
-The book provides a holistic overview of, and a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art.
+This book is intended as a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art.
 
-I’m sure others might find it useful, too. We could perhaps serialise the book for Smashing Magazine’s membership, so that we get the maximum benefit from the content. (I could take care of the serialisation.) This could also be a nice way to give Adobe another hit of marketing for their support, if we gave them an acknowledgement?
+I recommend lots of books on my Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is a book that provides a holistic overview of UX.
 
-I’d redraw all the diagrams and develop them. The approach would be like my first Standardistas’ book, with a section after each chapter of suggested reading, possibly downloadable templates, printables, etc..
+In addition to students new to UX this book could also serve as the basis for graphic designers – and others – wishing to transition into UX design.
 
+We could perhaps serialise the book for Smashing Magazine’s membership, so that we get the maximum benefit from the content. (I could take care of the serialisation, breaking the content down.)
+
+I’d redraw all the diagrams and develop them. We might approach the book like my first [Standardistas’](https://amzn.to/2HgsYt3) book, with a section after each chapter of suggested reading, possibly downloadable templates, printables, etc..
+
+In addition to the core book we could explore additional worksheets – similar to those I designed for Tiny Books, [like this](https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0), but Smashing Magazine branded – so that there was a sense that this was **more than a book….**
+ 
 
 - - -
 
@@ -26,49 +32,60 @@ I think it would be helpful to build the book around a typical UX process:
 + Build
 + Test
 
-This feels like a logical structure (and I can’t recall seeing it done before). It echoes some of what I’ve begun to explore in the original series of articles for Adobe XD. I’ll develop a full table of contents shortly (what’s included here, is just me thinking aloud). Each section (below) has an indicative outline structure, also.
+This feels like a logical structure (and I can’t recall seeing it done before). It echoes some of what I’ve begun to explore in the original series of articles for Adobe XD.
+
+I’ll develop a full table of contents shortly; what’s included below, is just me thinking aloud.
 
 
 - - -
 
 
-Table of Contents (Rough, Incomplete Draft)
+Table of Contents
 -----------------
 
-+ Foreword
+**This is a very rough, incomplete draft. It's designed to get the ball rolling and I'll be working on it this week.**
 
-+ Introduction
 
-+ Chapter 1: Research
++ **Foreword**
+
++ **Acknowledgements**
+
++ **Introduction**
+
++ **Chapter 1: Research**
+  + Defining the Problem
   + Research Methods
-  + Define, Hypothesis, Idea
+  + User-Centred Design
+  + Research Outputs
   + Triangulation
-  + Etc.
 
-+ Chapter 2: Design
-  + XXXX
++ **Chapter 2: Design**
+  + Research → Hypothesis
+  + User Stories
+  + Design Principles
+  + Idea Generation
+  + Better Design Deliverables
+  + Iteration
 
-+ Chapter 3: Prototype
-  + A Range of Fidelities (Low → Medium → High)
++ **Chapter 3: Prototype**
+  + Fidelity: Low → Medium → High
   + Tools: Paper; Digital
   + Macro-Prototyping: Adobe XD, InVision, etc.
   + Micro-Prototyping: Keynote, etc.
 
-+ Chapter 4: Build
-  + HTML, CSS, JS <!-- Be careful this doesn’t get too lost in detail. Remember this is a beginning to intermediate book, not an ‘everything you need to know about HTML, CSS and JS’ book. -->
++ **Chapter 4: Build**
+  + HTML, CSS, JS /* This section needs work: Be careful this doesn’t get too lost in detail. Remember this is a beginning to intermediate book, not an ‘everything you need to know about HTML, CSS and JS’ book. */
 
-+ Chapter 5: Test
++ **Chapter 5: Test**
   + Usability Testing
-  + A Customisable Preamble and Testing Script <!-- Include a preamble and script in the downloadables. -->
-  + Guidelines
+  + Critique
+  + Post-Launch Strategy
 
-+ Conclusion
++ **Conclusion**
 
-+ Required Reading
++ **Required Reading**
 
-+ Acknowledgements
-
-+ Colophon
++ **Colophon**
 
 
 - - -
@@ -77,13 +94,26 @@ Table of Contents (Rough, Incomplete Draft)
 Foreword
 --------
 
-Why this book? Why me? <!-- This isn’t really foreword material, it’s more introduction material. Think about who could write a foreword. A little like A Book Apart’s books, the foreword helps give it a seal of approval. -->
+Think about who could write a foreword. A foreword helps give the book a seal of approval and it's useful for spreading the word.
 
-Almost a decade ago I co-authored a book on [Web Standards Design](https://amzn.to/2HgsYt3) with my Standardistas partner-in-crime, Nicklas Persson. It was the missing textbook we needed for my teaching at Belfast School of Art. Things have moved on – as they inevitably do in our industry – and, once again, I’m looking for a textbook. This time one that introduces the fundamentals of User Experience (UX) design, from research right through to design, build and test.
 
-<!-- #fuckferris… It’s not I and my team… it’s me. This book is what I, and my team, have built our teaching around at Belfast School of Art. -->
+- - -
 
-/* Be sure and credit folks who’ve helped: 1. The folks at Smashing: Markus, Iris, etc.; 2. The folks at Adobe: Mike Hu, Amanda Gross Tuft and Liz Hemingway; 3. Others who have provided feedback on the initial proposal: @richardreddy, @bitka, etc.. */
+
+Acknowledgements
+----------------
+
+Be sure and credit folks who’ve helped:
+
+1. The folks at Smashing: Markus Seyfferth, Iris Lješnjanin, etc.
+
+2. The folks at Adobe: Mike Hu, Amanda Gross Tuft and Liz Hemingway.
+
+3. The team at Belfast School of Art: Paul McCormack, Kyle Body, VLs.
+
+4. The team at Little Thunder: Tim Potter and Gaby Muldoon.
+
+3. Others who have provided feedback on my initial proposals: @richardreddy, @bitka, etc..
 
 
 - - -
@@ -92,23 +122,28 @@ Almost a decade ago I co-authored a book on [Web Standards Design](https://amzn.
 Introduction
 ------------
 
-Why UX? Why now?
+Why UX? Why now? Why me?
 
-This is an expansion of article number one and the later articles on UX strategy. It’s designed to set the scene and 
+Almost a decade ago I co-authored a book on [Web Standards Design](https://amzn.to/2HgsYt3) with my Standardistas partner-in-crime, Nicklas Persson. It was the missing textbook we needed for my teaching at Belfast School of Art.
 
-It’s about competitive advantage, why design-driven companies deliver higher profits, etc. The rise of the Chief Design Officer (CDO).
+Things have moved on – as they inevitably do in our industry – and, once again, I’m looking for a textbook. This time one that introduces the fundamentals of User Experience (UX) design, from research right through to designing, building and testing.
 
-Perhaps references some of Adobe’s statistics that explain why design is being embraced by industry and why user experience, in particular, is driving and disrupting industry.
+The introduction should be an expansion of article one in my Adobe XD series. It’s designed to set the scene and stress the importance of UX design in the here and now.
+
+It’s about competitive advantage, why design-driven companies deliver higher profits, the rise of the Chief Design Officer (CDO), etc..
+
+The introduction should also highlight who the book is targeted at: anyone studying UX (stress that it's been thoroughly road-tested on my students at Belfast School of Art); anyone moving into UX.
+
+/* Perhaps references some of Adobe’s statistics that explain why design is being embraced by industry and why user experience, in particular, is driving and disrupting industry. */
 
 
 - - -
 
 
-
 Chapter 1: Research
 -------------------
 
-Above all, this first section is about aligning everything you do with users’ needs. It’s about the ‘U’ in UX. This section is critical…
+Above all, this first section is about aligning everything you do with users’ needs. It’s about the ‘U’ in UX. This section is critical.
 
 In this section I’ll outline a number of different user research methods, tools that readers can use to inform their design. We might also include links to downloadable worksheets so that the book feels rounded.
 
@@ -174,15 +209,6 @@ Chapter 5: Test
 ---------------
 
 Again, this draws on the Smashing + Adobe articles (No. 8).
-
-
-- - -
-
-
-Acknowledgements
-----------------
-
-/* Be sure and credit folks who’ve helped: 1. The folks at Smashing: Markus, Iris, etc.; 2. The folks at Adobe: Mike Hu, Amanda Gross Tuft and Liz Hemingway; 3. Others who have provided feedback on the initial proposal: @richardreddy, @bitka, etc.. */
 
 
 - - -
