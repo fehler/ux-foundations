@@ -26,13 +26,13 @@ Book Structure
 
 I’m exploring the idea of structuring the book around a typical design process:
 
-![The Design Process](design-process.png)
-
 + Research
 + Design
 + Prototype
 + Build
 + Test
+
+![The Design Process](design-process.png)
 
 This feels like a logical structure (and I can’t recall seeing it done before). It echoes some of what I’ve begun to explore in the original series of articles for Smashing Magazine + Adobe XD.
 
