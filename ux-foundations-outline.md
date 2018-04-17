@@ -1,11 +1,15 @@
 UX Foundations
 ==============
 
+MOBILE FIRST! DESIGNING FOR A CONTINUUM
+
 **Initial Outline: Monday, 16 April, 2017**
 
 This book is intended as a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art.
 
-I recommend lots of books on my Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is a book that provides a holistic overview of UX.
+I recommend lots of books on my undergraduate Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is a book that provides a holistic overview of UX.
+
+The book is design-focused, it’s about the process of user experience design from a designer’s perspective. It will touch on build aspects (web, mobile), but above all it’s about design.
 
 In addition to students new to UX this book could also serve as the basis for graphic designers – and others – wishing to transition into UX design.
 
@@ -43,7 +47,7 @@ I’ll develop a full table of contents shortly; what’s included below, is jus
 Table of Contents
 -----------------
 
-**This is a very rough, incomplete draft. It's designed to get the ball rolling and I'll be working on it this week.**
+**This is a very rough, incomplete draft. It’s designed to get the ball rolling and I’ll be working on it this week.**
 
 
 + **Foreword**
@@ -53,32 +57,56 @@ Table of Contents
 + **Introduction**
 
 + **Chapter 1: Research**
+  + The ‘U’ in UX Design
+  + A User-Centred Approach
+  + Users = Humans
   + Defining the Problem
+  + Competitor Benchmarking
   + Research Methods
-  + User-Centred Design
+    + Quantitative
+    + Qualitative
   + Research Outputs
+  + Drawing Conclusions
+  + Analysing Research Findings
   + Triangulation
 
 + **Chapter 2: Design**
   + Research → Hypothesis
   + User Stories
+  + Personas
+  + Information Architecture
   + Design Principles
   + Idea Generation
   + Better Design Deliverables
-  + Iteration
+  + Moodboards
+  + Style Tiles and Element Collages
+  + An Iterative Approach
 
 + **Chapter 3: Prototype**
   + Fidelity: Low → Medium → High
   + Tools: Paper; Digital
-  + Macro-Prototyping: Adobe XD, InVision, etc.
-  + Micro-Prototyping: Keynote, etc.
+  + Wireframing
+  + Macro-Prototyping (Flow)
+    + Adobe XD
+    + InVision
+    + Etc.
+  + Micro-Prototyping (Micro-Interactions)
+    + Keynote
+    + PowerPoint
+    + Etc.
 
 + **Chapter 4: Build**
-  + HTML, CSS, JS /* This section needs work: Be careful this doesn’t get too lost in detail. Remember this is a beginning to intermediate book, not an ‘everything you need to know about HTML, CSS and JS’ book. */
+  + HTML, CSS, JS
+  + Design Systems
+  + /* This section needs work. This is a beginners to intermediate book, not an ‘everything you need to know about HTML, CSS and JS’ book, so I need to think about what goes into ‘Build’. */
 
 + **Chapter 5: Test**
+  + A Culture of Critique
   + Usability Testing
-  + Critique
+    + A User Testing Script
+    + Running a Test
+    + Tools (Screenflow, etc.)
+  + Implementing Your Findings
   + Post-Launch Strategy
 
 + **Conclusion**
@@ -94,7 +122,11 @@ Table of Contents
 Foreword
 --------
 
-Think about who could write a foreword. A foreword helps give the book a seal of approval and it's useful for spreading the word.
+A foreword helps give the book a seal of approval and it’s useful for spreading the word. (I could ask Brad Frost…?)
+
+Whoever we approach we should stress that everything in the book is drawn from 15 years of teaching that has been informed by 25 years of hands-on experience in industry.
+
+We should maybe also mention that I'm a Senior Fellow of the UK's Higher Education Academy (SFHEA), i.e. that my teaching has been recognised as world class.
 
 
 - - -
@@ -105,7 +137,7 @@ Acknowledgements
 
 Be sure and credit folks who’ve helped:
 
-1. The folks at Smashing: Markus Seyfferth, Iris Lješnjanin, etc.
+1. The folks at Smashing: Markus Seyfferth, Rachel Andrew, Iris Lješnjanin, etc. (Plus Vitaly Friedman, of course!)
 
 2. The folks at Adobe: Mike Hu, Amanda Gross Tuft and Liz Hemingway.
 
@@ -132,9 +164,11 @@ The introduction should be an expansion of article one in my Adobe XD series. It
 
 It’s about competitive advantage, why design-driven companies deliver higher profits, the rise of the Chief Design Officer (CDO), etc..
 
-The introduction should also highlight who the book is targeted at: anyone studying UX (stress that it's been thoroughly road-tested on my students at Belfast School of Art); anyone moving into UX.
+The introduction should also highlight who the book is targeted at: anyone studying UX (stress that it’s been thoroughly road-tested on my students at Belfast School of Art); anyone moving into UX.
 
-/* Perhaps references some of Adobe’s statistics that explain why design is being embraced by industry and why user experience, in particular, is driving and disrupting industry. */
+/* Perhaps reference some of Adobe’s statistics that explain why design is being embraced by industry and why user experience, in particular, is driving and disrupting industry. */
+
+<!-- Functional, Aesthetic, Experiential -->
 
 
 - - -
@@ -143,21 +177,13 @@ The introduction should also highlight who the book is targeted at: anyone study
 Chapter 1: Research
 -------------------
 
-Above all, this first section is about aligning everything you do with users’ needs. It’s about the ‘U’ in UX. This section is critical.
+This section is critical. It’s about aligning everything you do with your users’ needs. It's about the ‘U’ in UX. It also stresses the fact that users are humans (i.e. not some abstract concept, 'users').
 
-In this section I’ll outline a number of different user research methods, tools that readers can use to inform their design. We might also include links to downloadable worksheets so that the book feels rounded.
+We need to stress that design flows from the problem and that we can define the problem effectively if we create a research toolbox comprised of both quantitative and qualitative methods.
 
-It would be nice to have worksheets – branded with Smashing’s cat – similar to the ones I’ve been doing for Tiny Books:
+I'd suggest I outline a number of different user research methods, tools that readers can use to inform their design. We might also include links to downloadable worksheets for these tools so that the book feels rounded.
 
-https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0
-
-+ Define the problem.
-+ Research Methods (A list of methods, with explanations, like a pick’n’mix.)
-  + Card Sorting
-  + Interviews
-  + Etc.
-+ Analysing Research Findings
-+ User Stories /* Move this to the next section? Talk about taking your findings and creating user stories? Also, there’s a good worksheet here: User Stories. */
+It would be nice to have worksheets ([likethis](https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0) – branded with Smashing’s cat – similar to the ones I’ve been doing for Tiny Books. This frames the book as one part of a learning system, which might also include slide decks?
 
 
 - - -
@@ -165,6 +191,13 @@ https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0
 
 Chapter 2: Design
 -----------------
+
+This section is about mapping everything learned in the research phase into the design phase. It's about establishing a hypothesis informed by your findings. Explain what user stories are and why they help.
+
+Without getting too lost in design at a macro level, I think it would help to provide an overview of some universal design principles: visual grammar, language (and content), typography, narrative…
+
+When 
+
 
 This could kick off with the user stories as a bridge between research and design.
 
