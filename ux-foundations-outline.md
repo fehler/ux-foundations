@@ -1,15 +1,13 @@
 UX Foundations
 ==============
 
-MOBILE FIRST! DESIGNING FOR A CONTINUUM
-
-**Initial Outline: Monday, 16 April, 2017**
+**Initial Outline: Tuesday, 17 April, 2017**
 
 This book is intended as a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art.
 
-I recommend lots of books on my undergraduate Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is a book that provides a holistic overview of UX.
+I recommend lots of books on my undergraduate Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is **a book that provides a holistic overview of UX**.
 
-The book is design-focused, it’s about the process of user experience design from a designer’s perspective. It will touch on build aspects (web, mobile), but above all it’s about design.
+The book is design-focused, it’s about the process of user experience design from a designer’s perspective. It will touch on build aspects (web, mobile), but it’s primarily about the process of design.
 
 In addition to students new to UX this book could also serve as the basis for graphic designers – and others – wishing to transition into UX design.
 
@@ -26,9 +24,9 @@ In addition to the core book we could explore additional worksheets – similar 
 Book Structure
 --------------
 
-I think it would be helpful to build the book around a typical UX process:
+I’m exploring the idea of structuring the book around a typical design process:
 
-<!-- Get a diagram into the proposal here to clarify this model for the book structure. -->
+![The Design Process](design-process.png)
 
 + Research
 + Design
@@ -36,7 +34,7 @@ I think it would be helpful to build the book around a typical UX process:
 + Build
 + Test
 
-This feels like a logical structure (and I can’t recall seeing it done before). It echoes some of what I’ve begun to explore in the original series of articles for Adobe XD.
+This feels like a logical structure (and I can’t recall seeing it done before). It echoes some of what I’ve begun to explore in the original series of articles for Smashing Magazine + Adobe XD.
 
 I’ll develop a full table of contents shortly; what’s included below, is just me thinking aloud.
 
@@ -126,7 +124,7 @@ A foreword helps give the book a seal of approval and it’s useful for spreadin
 
 Whoever we approach we should stress that everything in the book is drawn from 15 years of teaching that has been informed by 25 years of hands-on experience in industry.
 
-We should maybe also mention that I'm a Senior Fellow of the UK's Higher Education Academy (SFHEA), i.e. that my teaching has been recognised as world class.
+We should maybe also mention that I’m a Senior Fellow of the UK’s Higher Education Academy (SFHEA), i.e. that my teaching has been recognised as world class.
 
 
 - - -
@@ -177,11 +175,11 @@ The introduction should also highlight who the book is targeted at: anyone study
 Chapter 1: Research
 -------------------
 
-This section is critical. It’s about aligning everything you do with your users’ needs. It's about the ‘U’ in UX. It also stresses the fact that users are humans (i.e. not some abstract concept, 'users').
+This section is critical. It’s about aligning everything you do with your users’ needs. It’s about the ‘U’ in UX. It also stresses the fact that users are humans (i.e. not some abstract concept, ‘users’).
 
 We need to stress that design flows from the problem and that we can define the problem effectively if we create a research toolbox comprised of both quantitative and qualitative methods.
 
-I'd suggest I outline a number of different user research methods, tools that readers can use to inform their design. We might also include links to downloadable worksheets for these tools so that the book feels rounded.
+I’d suggest I outline a number of different user research methods, tools that readers can use to inform their design. We might also include links to downloadable worksheets for these tools so that the book feels rounded.
 
 It would be nice to have worksheets ([likethis](https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0) – branded with Smashing’s cat – similar to the ones I’ve been doing for Tiny Books. This frames the book as one part of a learning system, which might also include slide decks?
 
@@ -192,22 +190,11 @@ It would be nice to have worksheets ([likethis](https://www.dropbox.com/s/v16c8u
 Chapter 2: Design
 -----------------
 
-This section is about mapping everything learned in the research phase into the design phase. It's about establishing a hypothesis informed by your findings. Explain what user stories are and why they help.
+This section is about mapping everything learned in the research phase onto the design phase. It’s about establishing a hypothesis informed by your findings.
 
-Without getting too lost in design at a macro level, I think it would help to provide an overview of some universal design principles: visual grammar, language (and content), typography, narrative…
+I’ll explain what user stories are and why they help to keep the user at the heart of the design process. I’ll also introduce some design principles: visual grammar, language (and content design), typography, narrative, psychology….
 
-When 
-
-
-This could kick off with the user stories as a bridge between research and design.
-
-+ Universal Principles
-  + Visual Grammar
-  + Language and Typography
-  + Narrative Design
-+ Information Architecture
-+ User Interface
-+ Screens ≠ Print
+I’d suggest we look at information architecture and structuring design at the macro-level, looking at user flows. Lastly, I’ll stress that designing for screens is not the same as designing for print. This point is critical.
 
 
 - - -
@@ -219,7 +206,7 @@ Chapter 3: Prototype
 I think we should widen the scope here, beyond the restriction to Adobe XD that the Adobe sponsored articles imposed, i.e. include more than just Adobe XD, also include, e.g. InVision, Keynote, etc..
 
 + Lo-fi Prototypes
-+ Wireframes // A lot more here. This article can be expanded considerably. //
++ Wireframes
 + UI, UI Kits
 + Animation
 
@@ -241,7 +228,7 @@ Be careful this doesn’t get too lost in detail. Remember this is a beginning t
 Chapter 5: Test
 ---------------
 
-Again, this draws on the Smashing + Adobe articles (No. 8).
+Again, this draws on the Smashing + Adobe articles.
 
 
 - - -
