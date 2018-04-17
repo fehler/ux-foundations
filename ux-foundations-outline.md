@@ -3,6 +3,14 @@ UX Foundations
 
 **Initial Outline: Tuesday, 17 April, 2017**
 
+**Before I get into the outline, I think it's important that the book acknowledges that we are now designing for a multi-device landscape that encompasses: desktop, mobile, wearable…**
+
+**It should also touch on (but not get lost in) conversational UIs and what lies ahead: Alexa, Siri…**
+
+
+Overview
+--------
+
 This book is intended as a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art.
 
 I recommend lots of books on my undergraduate Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is **a book that provides a holistic overview of UX**.
