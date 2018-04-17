@@ -1,11 +1,11 @@
 UX Foundations
 ==============
 
-**Initial Outline: Tuesday, 17 April, 2017**
+**I think it’s important that the book acknowledges that we are now designing for a multi-device landscape that encompasses: desktop, mobile, wearable… As such, we need to consider new methods that are applicable in a context beyond browsers.**
 
-**Before I get into the outline, I think it's important that the book acknowledges that we are now designing for a multi-device landscape that encompasses: desktop, mobile, wearable…**
+**I think this approach – which I call ‘device agnostic design’ –  is what might help separate this book from others that focus on either desktop, mobile or other specialist disciplines.**
 
-**It should also touch on (but not get lost in) conversational UIs and what lies ahead: Alexa, Siri…**
+**We need to situate UX within a wider context, one that is developing rapidly, and – as Steve Jobs was fond of stating – [skate to where the puck is going to be](https://www.youtube.com/watch?v=O51PmzmOQYo).**
 
 
 Overview
@@ -253,3 +253,5 @@ Suggested Reading
 
 <!-- Test these links before submitting. Also, it might be an idea to have a required reading section at the end of each chapter? -->
 
+
+**Initial Outline: Tuesday, 17 April, 2017**
