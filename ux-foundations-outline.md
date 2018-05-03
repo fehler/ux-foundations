@@ -1,29 +1,25 @@
 UX Foundations
 ==============
 
-**I think it’s important that the book acknowledges that we are now designing for a multi-device landscape that encompasses: desktop, mobile, wearable… As such, we need to consider new methods that are applicable in a context beyond browsers.**
+**I think it’s important that the book acknowledges that we’re now designing for a multi-device landscape that encompasses: desktop, mobile, wearable and other devices that are in their infancy. As such, we need to consider user experience approaches that are applicable in a context beyond browsers. Whilst the focus is probably desktop and mobile, we should acknowledge that ahead of us lies considerable opportunity: wearables, conversational interfaces, etc..**
 
-**I think this approach – which I call ‘device agnostic design’ –  is what might help separate this book from others that focus on either desktop, mobile or other specialist disciplines.**
+**I’m still thinking through everything, in particular what the balance is of desktop, mobile, etc., but I think the book will take a ‘device agnostic design’ approach.**
 
-**We need to situate UX within a wider context, one that is developing rapidly, and – as Steve Jobs was fond of stating – [skate to where the puck is going to be](https://www.youtube.com/watch?v=O51PmzmOQYo).**
+**I have lots of Post-It Notes with additional high-level content on them that I need to incorporate below. I’m about to head to [Donegal](http://j.mp/sandfield) so I can focus for a week. I’ll be there 4–11 May. So, all being well, I’ll use the solitude up there to really have a solid sense of direction and a proper outline within the next 10 days.**
+
+**Last Update: Thursday, 3 May, 2018**
 
 
 Overview
 --------
 
-This book is intended as a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art.
+This book is intended as a beginners to intermediate introduction to User Experience (UX) design. It’s the ‘missing manual’ I’ve been looking for at Belfast School of Art. In addition to students new to UX this book could also serve as the basis for graphic designers – and others – wishing to transition into UX design.
 
-I recommend lots of books on my undergraduate Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is **a book that provides a holistic overview of UX**.
+I recommend lots of books on my undergraduate Interaction Design programme, each focused on a different aspect of UX, what I really need, however, is **a book that provides a holistic overview of UX**. The book is design-focused, it’s about the process of user experience design from a designer’s perspective. It will touch on build aspects (desktop, mobile), but it’s primarily about UX as a design discipline.
 
-The book is design-focused, it’s about the process of user experience design from a designer’s perspective. It will touch on build aspects (web, mobile), but it’s primarily about the process of design.
+I plan to redraw all the diagrams I did for the series and develop them. We might approach the book like my first Standardistas’ [book](https://amzn.to/2HgsYt3), with a section after each chapter of suggested reading, possibly downloadable templates, printables, etc..
 
-In addition to students new to UX this book could also serve as the basis for graphic designers – and others – wishing to transition into UX design.
-
-We could perhaps serialise the book for Smashing Magazine’s membership, so that we get the maximum benefit from the content. (I could take care of the serialisation, breaking the content down.)
-
-I’d redraw all the diagrams and develop them. We might approach the book like my first [Standardistas’](https://amzn.to/2HgsYt3) book, with a section after each chapter of suggested reading, possibly downloadable templates, printables, etc..
-
-In addition to the core book we could explore additional worksheets – similar to those I designed for Tiny Books, [like this](https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0), but Smashing Magazine branded – so that there was a sense that this was **more than a book….**
+In addition to the core book we could explore additional worksheets – similar to those I designed for Tiny Books, [like this](https://www.dropbox.com/s/v16c8urdh5satho/ux-worksheets-like-this.pdf?dl=0), but Smashing Magazine branded – so that there was a sense that this was **more than a book….** Thoughts on this welcome.
  
 
 - - -
@@ -53,7 +49,7 @@ I’ll develop a full table of contents shortly; what’s included below, is jus
 Table of Contents
 -----------------
 
-**This is a very rough, incomplete draft. It’s designed to get the ball rolling and I’ll be working on it this week.**
+**This is a very rough, incomplete draft. It’s designed to get the ball rolling and I’ll be working on it while I’m up in Donegal.**
 
 
 + **Foreword**
@@ -125,17 +121,20 @@ Table of Contents
 - - -
 
 
+<!--
+
 Foreword
 --------
 
-A foreword helps give the book a seal of approval and it’s useful for spreading the word. (I could ask Brad Frost…?)
+A foreword helps give the book a seal of approval and it’s useful for spreading the word. I have some ideas in mind for folks we could ask.
 
 Whoever we approach we should stress that everything in the book is drawn from 15 years of teaching that has been informed by 25 years of hands-on experience in industry.
 
 We should maybe also mention that I’m a Senior Fellow of the UK’s Higher Education Academy (SFHEA), i.e. that my teaching has been recognised as world class.
 
-
 - - -
+
+-->
 
 
 Acknowledgements
@@ -147,11 +146,11 @@ Be sure and credit folks who’ve helped:
 
 2. The folks at Adobe: Mike Hu, Amanda Gross Tuft and Liz Hemingway.
 
-3. The team at Belfast School of Art: Paul McCormack, Kyle Body, VLs.
+3. The team at Belfast School of Art: Paul McCormack, Kyle Body, VLs; and the team at Little Thunder: Tim Potter and Gaby Muldoon.
 
-4. The team at Little Thunder: Tim Potter and Gaby Muldoon.
+4. Others who have provided feedback on my initial proposals: @richardreddy, @bitka, etc..
 
-3. Others who have provided feedback on my initial proposals: @richardreddy, @bitka, etc..
+5. Cara.
 
 
 - - -
@@ -236,7 +235,7 @@ Be careful this doesn’t get too lost in detail. Remember this is a beginning t
 Chapter 5: Test
 ---------------
 
-Again, this draws on the Smashing + Adobe articles.
+Again, this draws on the Smashing + Adobe articles. I’ll include a more expanded overview of usability testing and how to run tests, including providing template preambles and test scripts.
 
 
 - - -
@@ -253,5 +252,3 @@ Suggested Reading
 
 <!-- Test these links before submitting. Also, it might be an idea to have a required reading section at the end of each chapter? -->
 
-
-**Initial Outline: Tuesday, 17 April, 2017**
